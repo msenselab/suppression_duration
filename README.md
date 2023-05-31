@@ -1,7 +1,6 @@
 ## Project
 
-__Proactive Suppression of Likely Distractor Locations Outlasts the Search-Task Decision
-__
+__Proactive Suppression of Likely Distractor Locations Outlasts the Search-Task Decision__
 
 ## Team members
 
